@@ -1,0 +1,45 @@
+body {
+    background-color: #eff4fd;
+    font-family: Arial, sans-serif;
+}
+
+.services {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+h2 {
+    background: #ffa500;
+    padding: 8px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+
+body {
+    background: linear-gradient(135deg, #eff4fd, #ffa500);
+}
+h1{
+    text-align: center;
+}
+
+
+
+
+
+
+
