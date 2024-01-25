@@ -1,0 +1,78 @@
+
+body {
+    background-color: #eff4fd;
+    font-family: Arial, sans-serif; 
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    margin-top: 5%;
+    padding: 10px;
+    border: #ffa500 solid;
+    background-color: #ffa500;
+}
+h2{
+    color: #ffa500;
+    margin-top: 4%;
+    width: 100%;
+    height: 100%; 
+    margin-left: 2%;
+}
+.logos{
+   
+    display: flex;
+    justify-content: space-between ;
+}
+.logo img{
+    width: 25%;
+    height: 100%;
+    margin: 2%;
+    padding: 2%;
+}
+.logo img ADMIRE GOLDEN{
+    width: 10% ;
+}
+
+.logo img royal{
+    height: 20%;
+}
+.sketches{
+    display:flex;
+    justify-content: space-between
+}    
+.sketches img{
+    width: 25%;
+    height: 100%;
+    margin: 1%;
+    padding: 1%;
+   
+}
+.sketches img minimouse{
+    width: 5%;
+    height: 2%;
+}
+
+.posters{
+    display: flex;
+    justify-content: space-between ;
+}
+.posters img{
+    width: 25%;
+    height: 100%;
+    margin: 2%;
+    padding: 2%;
+}
+.posters img beauty palour{
+    width: 10%;
+    height: 5%;
+}
+
+.designs{
+    justify-content: space-evenly;
+}
+
+
